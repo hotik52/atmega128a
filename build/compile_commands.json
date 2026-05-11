@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/user19/workspace_ondevice_3/atmega128a/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/user19/workspace_ondevice_3/atmega128a/src -I/home/user19/workspace_ondevice_3/atmega128a/src/ap -I/home/user19/workspace_ondevice_3/atmega128a/src/bsp -I/home/user19/workspace_ondevice_3/atmega128a/src/hw -I/home/user19/workspace_ondevice_3/atmega128a/src/common -I/home/user19/workspace_ondevice_3/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/button.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/button.c",
+  "file": "/home/user19/workspace_ondevice_3/atmega128a/button.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/button.c.obj"
+},
+{
+  "directory": "/home/user19/workspace_ondevice_3/atmega128a/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/user19/workspace_ondevice_3/atmega128a/src -I/home/user19/workspace_ondevice_3/atmega128a/src/ap -I/home/user19/workspace_ondevice_3/atmega128a/src/bsp -I/home/user19/workspace_ondevice_3/atmega128a/src/hw -I/home/user19/workspace_ondevice_3/atmega128a/src/common -I/home/user19/workspace_ondevice_3/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/fndtimer.c",
+  "file": "/home/user19/workspace_ondevice_3/atmega128a/fndtimer.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj"
+},
+{
+  "directory": "/home/user19/workspace_ondevice_3/atmega128a/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/user19/workspace_ondevice_3/atmega128a/src -I/home/user19/workspace_ondevice_3/atmega128a/src/ap -I/home/user19/workspace_ondevice_3/atmega128a/src/bsp -I/home/user19/workspace_ondevice_3/atmega128a/src/hw -I/home/user19/workspace_ondevice_3/atmega128a/src/common -I/home/user19/workspace_ondevice_3/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/joystick.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/joystick.c",
+  "file": "/home/user19/workspace_ondevice_3/atmega128a/joystick.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/joystick.c.obj"
+},
+{
+  "directory": "/home/user19/workspace_ondevice_3/atmega128a/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/user19/workspace_ondevice_3/atmega128a/src -I/home/user19/workspace_ondevice_3/atmega128a/src/ap -I/home/user19/workspace_ondevice_3/atmega128a/src/bsp -I/home/user19/workspace_ondevice_3/atmega128a/src/hw -I/home/user19/workspace_ondevice_3/atmega128a/src/common -I/home/user19/workspace_ondevice_3/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/lcd.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/lcd.c",
+  "file": "/home/user19/workspace_ondevice_3/atmega128a/lcd.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/lcd.c.obj"
+},
+{
+  "directory": "/home/user19/workspace_ondevice_3/atmega128a/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/user19/workspace_ondevice_3/atmega128a/src -I/home/user19/workspace_ondevice_3/atmega128a/src/ap -I/home/user19/workspace_ondevice_3/atmega128a/src/bsp -I/home/user19/workspace_ondevice_3/atmega128a/src/hw -I/home/user19/workspace_ondevice_3/atmega128a/src/common -I/home/user19/workspace_ondevice_3/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/led.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/led.c",
+  "file": "/home/user19/workspace_ondevice_3/atmega128a/led.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/led.c.obj"
+},
+{
+  "directory": "/home/user19/workspace_ondevice_3/atmega128a/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/user19/workspace_ondevice_3/atmega128a/src -I/home/user19/workspace_ondevice_3/atmega128a/src/ap -I/home/user19/workspace_ondevice_3/atmega128a/src/bsp -I/home/user19/workspace_ondevice_3/atmega128a/src/hw -I/home/user19/workspace_ondevice_3/atmega128a/src/common -I/home/user19/workspace_ondevice_3/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/main.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/main.c",
+  "file": "/home/user19/workspace_ondevice_3/atmega128a/main.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/main.c.obj"
+},
+{
+  "directory": "/home/user19/workspace_ondevice_3/atmega128a/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/user19/workspace_ondevice_3/atmega128a/src -I/home/user19/workspace_ondevice_3/atmega128a/src/ap -I/home/user19/workspace_ondevice_3/atmega128a/src/bsp -I/home/user19/workspace_ondevice_3/atmega128a/src/hw -I/home/user19/workspace_ondevice_3/atmega128a/src/common -I/home/user19/workspace_ondevice_3/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/servo.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/servo.c",
+  "file": "/home/user19/workspace_ondevice_3/atmega128a/servo.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/servo.c.obj"
+}
+]

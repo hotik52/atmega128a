@@ -1,0 +1,1085 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+                              /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o (exit)
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
+                              /tmp/ccH0EkwS.ltrans0.ltrans.o (__umulhisi3)
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
+                              /tmp/ccH0EkwS.ltrans0.ltrans.o (__udivmodqi4)
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
+                              /tmp/ccH0EkwS.ltrans0.ltrans.o (__udivmodhi4)
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
+                              /tmp/ccH0EkwS.ltrans0.ltrans.o (__udivmodsi4)
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+                              /tmp/ccH0EkwS.ltrans0.ltrans.o (__do_copy_data)
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+                              /tmp/ccH0EkwS.ltrans0.ltrans.o (__do_clear_bss)
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o)
+                              /tmp/ccH0EkwS.ltrans0.ltrans.o (snprintf)
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                              /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o) (vfprintf)
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
+                              /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o) (strnlen_P)
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
+                              /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o) (strnlen)
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+                              /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o) (fputc)
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+                              /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o) (__ultoa_invert)
+/opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
+                              /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o) (__negsi2)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+ .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccQ31SPo.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00000000      0x2fd /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccjCClET.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccjCClET.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccTWaTQG.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccTWaTQG.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000      0x2fd /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000       0x16 /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000       0x7d /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00000000       0x1c /tmp/cc8lRIx8.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/cc8lRIx8.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
+ .debug_info    0x00000000       0xed /tmp/ccpTkDd5.debug.temp.o
+ .debug_abbrev  0x00000000       0xbe /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0xe4 /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000      0x2fd /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0x58 /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0xf2 /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0x22 /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0x1c /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0x5f /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0xaa /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccpTkDd5.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccpTkDd5.debug.temp.o
+ .debug_line    0x00000000       0xa9 /tmp/ccpTkDd5.debug.temp.o
+ .debug_str     0x00000000     0x7b50 /tmp/ccpTkDd5.debug.temp.o
+ .debug_line_str
+                0x00000000      0x1e0 /tmp/ccpTkDd5.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0x16 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000      0x303 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0xaa /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0x22 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0x58 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0xf2 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0x64 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0x7d /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00000000       0x1c /tmp/ccNyagwW.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccNyagwW.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccpzzUvJ.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccpzzUvJ.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccpzzUvJ.debug.temp.o
+ .debug_macro   0x00000000      0x303 /tmp/ccpzzUvJ.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccpzzUvJ.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccpzzUvJ.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccpzzUvJ.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccpzzUvJ.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccpzzUvJ.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccpzzUvJ.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccpzzUvJ.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccpzzUvJ.debug.temp.o
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o)
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+ .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x00001000         rw!x
+eeprom           0x00810000         0x00001000         rw!x
+fuse             0x00820000         0x00000003         rw!x
+lock             0x00830000         0x00000400         rw!x
+signature        0x00840000         0x00000400         rw!x
+user_signatures  0x00850000         0x00000400         rw!x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+LOAD /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libm.a
+LOAD CMakeFiles/atmega128a.elf.dir/button.c.obj
+LOAD /tmp/ccH0EkwS.ltrans0.ltrans.o
+LOAD /tmp/ccQ31SPo.debug.temp.o
+LOAD /tmp/ccjCClET.debug.temp.o
+LOAD /tmp/ccTWaTQG.debug.temp.o
+LOAD /tmp/cc8lRIx8.debug.temp.o
+LOAD /tmp/ccpTkDd5.debug.temp.o
+LOAD /tmp/ccNyagwW.debug.temp.o
+LOAD /tmp/ccpzzUvJ.debug.temp.o
+LOAD CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/joystick.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/lcd.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/led.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/main.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/servo.c.obj
+START GROUP
+LOAD /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a
+LOAD /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libm.a
+LOAD /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a
+LOAD /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libatmega128a.a
+END GROUP
+                [0x00000000]                      __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00020000]                      __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00800100]                      __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800100
+                [0x00001000]                      __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xff00
+                [0x00001000]                      __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                      __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                        __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                        __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                        __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x118e
+ *(.vectors)
+ .vectors       0x00000000       0x28 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000028                        . = ALIGN (0x2)
+                0x00000028                        __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000028        0x0 linker stubs
+ *(.trampolines*)
+                0x00000028                        __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+                0x00000028                        . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000028                        __ctors_start = .
+ *(.ctors)
+                0x00000028                        __ctors_end = .
+                0x00000028                        __dtors_start = .
+ *(.dtors)
+                0x00000028                        __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x00000028        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+                0x00000028                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000028        0xc /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000034       0x1a /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+                0x00000034                __do_copy_data
+ .init4         0x0000004e       0x10 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+                0x0000004e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000005e        0x8 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+ *(.init9)
+ *(.text)
+ .text          0x00000066        0x4 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+                0x00000066                __vector_1
+                0x00000066                __bad_interrupt
+                0x00000066                __vector_6
+                0x00000066                __vector_3
+                0x00000066                __vector_7
+                0x00000066                __vector_5
+                0x00000066                __vector_4
+                0x00000066                __vector_2
+                0x00000066                __vector_8
+ .text          0x0000006a      0x218 /tmp/ccH0EkwS.ltrans0.ltrans.o
+                0x000001da                __vector_9
+                0x00000282                        . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x00000282      0x86e /tmp/ccH0EkwS.ltrans0.ltrans.o
+                0x00000282                main
+ .text.libgcc.mul
+                0x00000af0       0x1e /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
+                0x00000af0                __umulhisi3
+ .text.libgcc.div
+                0x00000b0e       0x18 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
+                0x00000b0e                __udivmodqi4
+ .text.libgcc.div
+                0x00000b26       0x28 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
+                0x00000b26                __udivmodhi4
+ .text.libgcc.div
+                0x00000b4e       0x44 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
+                0x00000b4e                __udivmodsi4
+ .text.libgcc.div
+                0x00000b92       0x10 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
+                0x00000b92                __negsi2
+ .text.avr-libc
+                0x00000ba2       0x78 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o)
+                0x00000ba2                snprintf
+ .text.avr-libc
+                0x00000c1a      0x428 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                0x00000c1a                vfprintf
+ .text.avr-libc
+                0x00001042       0x16 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
+                0x00001042                strnlen_P
+ .text.avr-libc
+                0x00001058       0x16 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
+                0x00001058                strnlen
+ .text.avr-libc
+                0x0000106e       0x60 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+                0x0000106e                fputc
+ .text.avr-libc
+                0x000010ce       0xbc /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+                0x000010ce                __ultoa_invert
+                0x0000118a                        . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000118a        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+                0x0000118a                exit
+                0x0000118a                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000118a        0x4 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x0000118e                        . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x0000118e                        _etext = .
+
+.data           0x00800100       0x82 load address 0x0000118e
+                0x00800100                        PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x00800100        0x6 /tmp/ccH0EkwS.ltrans0.ltrans.o
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x00800106       0x16 /tmp/ccH0EkwS.ltrans0.ltrans.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080011c       0x66 /tmp/ccH0EkwS.ltrans0.ltrans.o
+ *(.gnu.linkonce.r*)
+                0x00800182                        . = ALIGN (0x2)
+                0x00800182                        _edata = .
+                0x00800182                        PROVIDE (__data_end = .)
+
+.bss            0x00800182       0x11
+                0x00800182                        PROVIDE (__bss_start = .)
+ *(.bss)
+ .bss           0x00800182       0x11 /tmp/ccH0EkwS.ltrans0.ltrans.o
+ *(.bss*)
+ *(COMMON)
+                0x00800193                        PROVIDE (__bss_end = .)
+                0x0000118e                        __data_load_start = LOADADDR (.data)
+                0x00001210                        __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800193        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit .noinit.* .gnu.linkonce.n.*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x00800193                        _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+                0x00000000                        __flmap_init_label = DEFINED (__flmap_noinit_start)?__flmap_noinit_start:0x0
+                0x00000000                        __flmap = DEFINED (__flmap)?__flmap:0x0
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                        __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x5c /tmp/ccH0EkwS.ltrans0.ltrans.o
+                                 0x30 (size before relaxing)
+ .comment       0x0000005c       0x2e /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o)
+ .comment       0x0000005c       0x2e /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+ .comment       0x0000005c       0x2e /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x28
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 /tmp/ccH0EkwS.ltrans0.ltrans.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x2c3e
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x780 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+ .debug_info    0x00000780     0x157b /tmp/ccH0EkwS.ltrans0.ltrans.o
+ .debug_info    0x00001cfb      0x154 /tmp/ccQ31SPo.debug.temp.o
+                0x00001cfb                button.c.4479c5e1
+ .debug_info    0x00001e4f      0x391 /tmp/ccjCClET.debug.temp.o
+                0x00001e4f                fndtimer.c.488a28bd
+ .debug_info    0x000021e0      0x107 /tmp/ccTWaTQG.debug.temp.o
+                0x000021e0                joystick.c.1e034d0d
+ .debug_info    0x000022e7      0x421 /tmp/cc8lRIx8.debug.temp.o
+                0x000022e7                lcd.c.7d169ec2
+ .debug_info    0x00002708      0x3ff /tmp/ccNyagwW.debug.temp.o
+                0x00002708                main.c.a8878780
+ .debug_info    0x00002b07      0x137 /tmp/ccpzzUvJ.debug.temp.o
+                0x00002b07                servo.c.27116693
+
+.debug_abbrev   0x00000000      0xf64
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x718 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+ .debug_abbrev  0x00000718      0x1c5 /tmp/ccH0EkwS.ltrans0.ltrans.o
+ .debug_abbrev  0x000008dd       0xf2 /tmp/ccQ31SPo.debug.temp.o
+ .debug_abbrev  0x000009cf      0x12a /tmp/ccjCClET.debug.temp.o
+ .debug_abbrev  0x00000af9       0xc1 /tmp/ccTWaTQG.debug.temp.o
+ .debug_abbrev  0x00000bba      0x1c5 /tmp/cc8lRIx8.debug.temp.o
+ .debug_abbrev  0x00000d7f      0x153 /tmp/ccNyagwW.debug.temp.o
+ .debug_abbrev  0x00000ed2       0x92 /tmp/ccpzzUvJ.debug.temp.o
+
+.debug_line     0x00000000     0x2424
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1d /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+ .debug_line    0x0000001d     0x2081 /tmp/ccH0EkwS.ltrans0.ltrans.o
+ .debug_line    0x0000209e       0x82 /tmp/ccQ31SPo.debug.temp.o
+ .debug_line    0x00002120       0x9a /tmp/ccjCClET.debug.temp.o
+ .debug_line    0x000021ba       0x87 /tmp/ccTWaTQG.debug.temp.o
+ .debug_line    0x00002241       0xa9 /tmp/cc8lRIx8.debug.temp.o
+ .debug_line    0x000022ea       0xb8 /tmp/ccNyagwW.debug.temp.o
+ .debug_line    0x000023a2       0x82 /tmp/ccpzzUvJ.debug.temp.o
+
+.debug_frame    0x00000000      0x11c
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x11c /tmp/ccH0EkwS.ltrans0.ltrans.o
+
+.debug_str      0x00000000     0x8a22
+ *(.debug_str)
+ .debug_str     0x00000000      0x27d /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+ .debug_str     0x0000027d     0x87a5 /tmp/ccH0EkwS.ltrans0.ltrans.o
+                                 0xf7 (size before relaxing)
+ .debug_str     0x00008a22     0x72a1 /tmp/ccQ31SPo.debug.temp.o
+ .debug_str     0x00008a22     0x7b0f /tmp/ccjCClET.debug.temp.o
+ .debug_str     0x00008a22     0x7339 /tmp/ccTWaTQG.debug.temp.o
+ .debug_str     0x00008a22     0x805a /tmp/cc8lRIx8.debug.temp.o
+ .debug_str     0x00008a22     0x81d7 /tmp/ccNyagwW.debug.temp.o
+ .debug_str     0x00008a22     0x732c /tmp/ccpzzUvJ.debug.temp.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000      0x31a
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000      0x31a /tmp/ccH0EkwS.ltrans0.ltrans.o
+                                0x11a (size before relaxing)
+ .debug_line_str
+                0x0000031a      0x17e /tmp/ccQ31SPo.debug.temp.o
+ .debug_line_str
+                0x0000031a      0x1d7 /tmp/ccjCClET.debug.temp.o
+ .debug_line_str
+                0x0000031a      0x18c /tmp/ccTWaTQG.debug.temp.o
+ .debug_line_str
+                0x0000031a      0x1e4 /tmp/cc8lRIx8.debug.temp.o
+ .debug_line_str
+                0x0000031a      0x202 /tmp/ccNyagwW.debug.temp.o
+ .debug_line_str
+                0x0000031a      0x17b /tmp/ccpzzUvJ.debug.temp.o
+
+.debug_loclists
+                0x00000000     0x1162
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000     0x1162 /tmp/ccH0EkwS.ltrans0.ltrans.o
+
+.debug_macro    0x00000000     0x3438
+ *(.debug_macro)
+ .debug_macro   0x00000000       0x90 /tmp/ccQ31SPo.debug.temp.o
+ .debug_macro   0x00000090      0xc46 /tmp/ccQ31SPo.debug.temp.o
+ .debug_macro   0x00000cd6       0x10 /tmp/ccQ31SPo.debug.temp.o
+ .debug_macro   0x00000ce6      0x1c9 /tmp/ccQ31SPo.debug.temp.o
+ .debug_macro   0x00000eaf      0x2fd /tmp/ccQ31SPo.debug.temp.o
+ .debug_macro   0x000011ac       0x9e /tmp/ccQ31SPo.debug.temp.o
+ .debug_macro   0x0000124a     0x138f /tmp/ccQ31SPo.debug.temp.o
+ .debug_macro   0x000025d9      0x204 /tmp/ccQ31SPo.debug.temp.o
+ .debug_macro   0x000027dd       0xcb /tmp/ccQ31SPo.debug.temp.o
+ .debug_macro   0x000028a8       0x34 /tmp/ccQ31SPo.debug.temp.o
+ .debug_macro   0x000028dc       0x18 /tmp/ccQ31SPo.debug.temp.o
+ .debug_macro   0x000028f4       0x6c /tmp/ccQ31SPo.debug.temp.o
+ .debug_macro   0x00002960       0x34 /tmp/ccQ31SPo.debug.temp.o
+ .debug_macro   0x00002994       0xbb /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00002a4f       0x7d /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00002acc       0x16 /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00002ae2       0x1c /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00002afe       0x34 /tmp/ccjCClET.debug.temp.o
+ .debug_macro   0x00002b32       0xb1 /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00002be3       0x16 /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00002bf9      0x303 /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00002efc       0x22 /tmp/ccTWaTQG.debug.temp.o
+ .debug_macro   0x00002f1e       0xe7 /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00003005       0x58 /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x0000305d       0x10 /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x0000306d       0x9e /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x0000310b       0xf2 /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x000031fd       0x64 /tmp/cc8lRIx8.debug.temp.o
+ .debug_macro   0x00003261       0xf7 /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00003358       0x1c /tmp/ccNyagwW.debug.temp.o
+ .debug_macro   0x00003374       0xa8 /tmp/ccpzzUvJ.debug.temp.o
+ .debug_macro   0x0000341c       0x1c /tmp/ccpzzUvJ.debug.temp.o
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x1f5
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000      0x1f5 /tmp/ccH0EkwS.ltrans0.ltrans.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+OUTPUT(atmega128a.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+ButtonGetState                                    CMakeFiles/atmega128a.elf.dir/button.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+ButtonInit                                        CMakeFiles/atmega128a.elf.dir/button.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+DHT_Read                                          CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+DHT_SetInput                                      CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+FAN_GetTargetDuty                                 CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+FAN_RampDuty                                      CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+FAN_getDutyPercent                                CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+FAN_init                                          CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+FAN_speed                                         CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+FanLed_DisplayDuty                                CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+FanLed_Init                                       CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+I2C_Init                                          CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+I2C_Start                                         CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+I2C_Stop                                          CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+I2C_Write                                         CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+Joystick_Init                                     CMakeFiles/atmega128a.elf.dir/joystick.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+Joystick_UpdateServo                              CMakeFiles/atmega128a.elf.dir/joystick.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+LCD_Init                                          CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+LCD_PrintDhtError                                 CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+LCD_PrintStatus                                   CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+LCD_WriteString                                   CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+LCD_Write_4bit                                    CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+Servo_Apply                                       CMakeFiles/atmega128a.elf.dir/servo.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/joystick.c.obj (symbol from plugin)
+Servo_Init                                        CMakeFiles/atmega128a.elf.dir/servo.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+Servo_MoveHorizontalDown                          CMakeFiles/atmega128a.elf.dir/servo.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/joystick.c.obj (symbol from plugin)
+Servo_MoveHorizontalUp                            CMakeFiles/atmega128a.elf.dir/servo.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/joystick.c.obj (symbol from plugin)
+Servo_MoveVerticalDown                            CMakeFiles/atmega128a.elf.dir/servo.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/joystick.c.obj (symbol from plugin)
+Servo_MoveVerticalUp                              CMakeFiles/atmega128a.elf.dir/servo.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/joystick.c.obj (symbol from plugin)
+Servo_UpdateAutoHorizontal                        CMakeFiles/atmega128a.elf.dir/servo.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+Servo_UpdateAutoVertical                          CMakeFiles/atmega128a.elf.dir/servo.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+__DATA_REGION_LENGTH__                            /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__DATA_REGION_ORIGIN__                            /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__EEPROM_REGION_LENGTH__                          /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__FUSE_REGION_LENGTH__                            /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__TEXT_REGION_LENGTH__                            /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__TEXT_REGION_ORIGIN__                            /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__bad_interrupt                                   /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__bss_end                                         /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+__bss_start                                       /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+__data_end                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+__data_load_start                                 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+__data_start                                      /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+__do_clear_bss                                    /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
+                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+__do_copy_data                                    /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
+                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+__heap_end                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__init                                            /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__negsi2                                          /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
+                                                  /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+__stack                                           /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__udivmodhi4                                      /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
+                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+__udivmodqi4                                      /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
+                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+__udivmodsi4                                      /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
+                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+__ultoa_invert                                    /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+                                                  /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+__umulhisi3                                       /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
+                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+__vector_1                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_2                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_3                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_4                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_5                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_6                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_7                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_8                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_9                                        /tmp/ccH0EkwS.ltrans0.ltrans.o
+                                                  CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+                                                  /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_default                                  /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vectors                                         /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+_exit                                             /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+button.c.4479c5e1                                 /tmp/ccQ31SPo.debug.temp.o
+                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+exit                                              /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+                                                  /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+fnd_display_digit                                 CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+fnd_init                                          CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+fnd_millis_elapsed                                CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+fnd_millis_get                                    CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+fndtimer.c.488a28bd                               /tmp/ccjCClET.debug.temp.o
+                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+fputc                                             /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+                                                  /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+joystick.c.1e034d0d                               /tmp/ccTWaTQG.debug.temp.o
+                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+lcd.c.7d169ec2                                    /tmp/cc8lRIx8.debug.temp.o
+                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+led.c.4b72ec1d                                    /tmp/ccpTkDd5.debug.temp.o
+ledInit                                           CMakeFiles/atmega128a.elf.dir/led.c.obj (symbol from plugin)
+ledOff                                            CMakeFiles/atmega128a.elf.dir/led.c.obj (symbol from plugin)
+ledOn                                             CMakeFiles/atmega128a.elf.dir/led.c.obj (symbol from plugin)
+main                                              /tmp/ccH0EkwS.ltrans0.ltrans.o
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+                                                  /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+main.c.a8878780                                   /tmp/ccNyagwW.debug.temp.o
+                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+motor_set_fan_request                             CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+motor_update                                      CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+servo.c.27116693                                  /tmp/ccpzzUvJ.debug.temp.o
+                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+snprintf                                          /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o)
+                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+strnlen                                           /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
+                                                  /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+strnlen_P                                         /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
+                                                  /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+timer_display_update                              CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+timer_parse_input                                 CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+timer_uart_update                                 CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+uart0_init                                        CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+uart0_receive                                     CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+uart0_receive_ready                               CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+uart0_transmit                                    CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+uart0_transmit_ready                              CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+vfprintf                                          /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                                                  /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o)
