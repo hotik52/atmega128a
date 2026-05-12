@@ -2,12 +2,6 @@
 
 #include <avr/io.h>
 
-#define SERVO_DDR   DDRB
-#define SERVO_PIN   PB6
-
-#define SERVO2_DDR  DDRE
-#define SERVO2_PIN  PE3
-
 static uint16_t servoHorizontalDuty = SERVO_90_DEG;
 static uint16_t servoVerticalDuty = SERVO_90_DEG;
 

@@ -1,6 +1,12 @@
 file(REMOVE_RECURSE
   "CMakeFiles/atmega128a.elf.dir/button.c.obj"
   "CMakeFiles/atmega128a.elf.dir/button.c.obj.d"
+  "CMakeFiles/atmega128a.elf.dir/dht.c.obj"
+  "CMakeFiles/atmega128a.elf.dir/dht.c.obj.d"
+  "CMakeFiles/atmega128a.elf.dir/fan_led.c.obj"
+  "CMakeFiles/atmega128a.elf.dir/fan_led.c.obj.d"
+  "CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj"
+  "CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj.d"
   "CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj"
   "CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj.d"
   "CMakeFiles/atmega128a.elf.dir/joystick.c.obj"
@@ -13,6 +19,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/atmega128a.elf.dir/main.c.obj.d"
   "CMakeFiles/atmega128a.elf.dir/servo.c.obj"
   "CMakeFiles/atmega128a.elf.dir/servo.c.obj.d"
+  "CMakeFiles/atmega128a.elf.dir/system_timer.c.obj"
+  "CMakeFiles/atmega128a.elf.dir/system_timer.c.obj.d"
   "atmega128a.elf"
   "atmega128a.elf.pdb"
 )

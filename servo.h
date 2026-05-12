@@ -3,11 +3,8 @@
 
 #include <stdint.h>
 
-#define SERVO_0_DEG      125
-#define SERVO_90_DEG     375
-#define SERVO_180_DEG    625
-
-#define SERVO_AUTO_STEP  1
+#include "app_config.h"
+#include "pinmap.h"
 
 void Servo_Init(void);
 void Servo_UpdateAutoHorizontal(uint8_t isEnabled);

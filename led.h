@@ -6,8 +6,7 @@
 #include <avr/io.h>     // AVR 입출력 레지스터 정의
 #include <util/delay.h> // _delay_ms(), _delay_us() 함수 사용하기 위한 헤더파일
 
-#define LED_PORT    PORTD
-#define LED_DDR     DDRD
+#include "pinmap.h"
 
 typedef struct
 {

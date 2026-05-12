@@ -154,6 +154,78 @@ button.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/button.c.s
 .PHONY : button.c.s
 
+dht.obj: dht.c.obj
+.PHONY : dht.obj
+
+# target to build an object file
+dht.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/dht.c.obj
+.PHONY : dht.c.obj
+
+dht.i: dht.c.i
+.PHONY : dht.i
+
+# target to preprocess a source file
+dht.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/dht.c.i
+.PHONY : dht.c.i
+
+dht.s: dht.c.s
+.PHONY : dht.s
+
+# target to generate assembly for a file
+dht.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/dht.c.s
+.PHONY : dht.c.s
+
+fan_led.obj: fan_led.c.obj
+.PHONY : fan_led.obj
+
+# target to build an object file
+fan_led.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/fan_led.c.obj
+.PHONY : fan_led.c.obj
+
+fan_led.i: fan_led.c.i
+.PHONY : fan_led.i
+
+# target to preprocess a source file
+fan_led.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/fan_led.c.i
+.PHONY : fan_led.c.i
+
+fan_led.s: fan_led.c.s
+.PHONY : fan_led.s
+
+# target to generate assembly for a file
+fan_led.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/fan_led.c.s
+.PHONY : fan_led.c.s
+
+fan_moter.obj: fan_moter.c.obj
+.PHONY : fan_moter.obj
+
+# target to build an object file
+fan_moter.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj
+.PHONY : fan_moter.c.obj
+
+fan_moter.i: fan_moter.c.i
+.PHONY : fan_moter.i
+
+# target to preprocess a source file
+fan_moter.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/fan_moter.c.i
+.PHONY : fan_moter.c.i
+
+fan_moter.s: fan_moter.c.s
+.PHONY : fan_moter.s
+
+# target to generate assembly for a file
+fan_moter.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/fan_moter.c.s
+.PHONY : fan_moter.c.s
+
 fndtimer.obj: fndtimer.c.obj
 .PHONY : fndtimer.obj
 
@@ -298,6 +370,30 @@ servo.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/servo.c.s
 .PHONY : servo.c.s
 
+system_timer.obj: system_timer.c.obj
+.PHONY : system_timer.obj
+
+# target to build an object file
+system_timer.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/system_timer.c.obj
+.PHONY : system_timer.c.obj
+
+system_timer.i: system_timer.c.i
+.PHONY : system_timer.i
+
+# target to preprocess a source file
+system_timer.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/system_timer.c.i
+.PHONY : system_timer.c.i
+
+system_timer.s: system_timer.c.s
+.PHONY : system_timer.s
+
+# target to generate assembly for a file
+system_timer.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/atmega128a.elf.dir/build.make CMakeFiles/atmega128a.elf.dir/system_timer.c.s
+.PHONY : system_timer.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -310,6 +406,15 @@ help:
 	@echo "... button.obj"
 	@echo "... button.i"
 	@echo "... button.s"
+	@echo "... dht.obj"
+	@echo "... dht.i"
+	@echo "... dht.s"
+	@echo "... fan_led.obj"
+	@echo "... fan_led.i"
+	@echo "... fan_led.s"
+	@echo "... fan_moter.obj"
+	@echo "... fan_moter.i"
+	@echo "... fan_moter.s"
 	@echo "... fndtimer.obj"
 	@echo "... fndtimer.i"
 	@echo "... fndtimer.s"
@@ -328,6 +433,9 @@ help:
 	@echo "... servo.obj"
 	@echo "... servo.i"
 	@echo "... servo.s"
+	@echo "... system_timer.obj"
+	@echo "... system_timer.i"
+	@echo "... system_timer.s"
 .PHONY : help
 
 

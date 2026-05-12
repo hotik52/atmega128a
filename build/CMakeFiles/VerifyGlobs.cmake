@@ -6,12 +6,16 @@ cmake_policy(SET CMP0009 NEW)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/user19/workspace_ondevice_3/atmega128a/*.c")
 set(OLD_GLOB
   "/home/user19/workspace_ondevice_3/atmega128a/button.c"
+  "/home/user19/workspace_ondevice_3/atmega128a/dht.c"
+  "/home/user19/workspace_ondevice_3/atmega128a/fan_led.c"
+  "/home/user19/workspace_ondevice_3/atmega128a/fan_moter.c"
   "/home/user19/workspace_ondevice_3/atmega128a/fndtimer.c"
   "/home/user19/workspace_ondevice_3/atmega128a/joystick.c"
   "/home/user19/workspace_ondevice_3/atmega128a/lcd.c"
   "/home/user19/workspace_ondevice_3/atmega128a/led.c"
   "/home/user19/workspace_ondevice_3/atmega128a/main.c"
   "/home/user19/workspace_ondevice_3/atmega128a/servo.c"
+  "/home/user19/workspace_ondevice_3/atmega128a/system_timer.c"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

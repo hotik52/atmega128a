@@ -1,14 +1,7 @@
 #include <avr/io.h>
 
-#define LED_DDR     DDRD
-#define LED_PORT    PORTD
-#define BUTTON_DDR   DDRG
-#define BUTTON_PIN   PING
-
-#define BUTTON_ON 2
-#define BUTTON_OFF 3
-#define BUTTON_TOGGLE 4
-#define BUTTON_DEBOUNCE_COUNT 30
+#include "app_config.h"
+#include "pinmap.h"
 
 enum {PUSHED, RELEASED};
 enum

@@ -83,10 +83,52 @@ CMakeFiles/atmega128a.elf.dir/button.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/atmega128a.elf.dir/button.c.s"
 	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/user19/workspace_ondevice_3/atmega128a/button.c -o CMakeFiles/atmega128a.elf.dir/button.c.s
 
+CMakeFiles/atmega128a.elf.dir/dht.c.obj: CMakeFiles/atmega128a.elf.dir/flags.make
+CMakeFiles/atmega128a.elf.dir/dht.c.obj: /home/user19/workspace_ondevice_3/atmega128a/dht.c
+CMakeFiles/atmega128a.elf.dir/dht.c.obj: CMakeFiles/atmega128a.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/atmega128a.elf.dir/dht.c.obj"
+	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega128a.elf.dir/dht.c.obj -MF CMakeFiles/atmega128a.elf.dir/dht.c.obj.d -o CMakeFiles/atmega128a.elf.dir/dht.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/dht.c
+
+CMakeFiles/atmega128a.elf.dir/dht.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/atmega128a.elf.dir/dht.c.i"
+	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/user19/workspace_ondevice_3/atmega128a/dht.c > CMakeFiles/atmega128a.elf.dir/dht.c.i
+
+CMakeFiles/atmega128a.elf.dir/dht.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/atmega128a.elf.dir/dht.c.s"
+	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/user19/workspace_ondevice_3/atmega128a/dht.c -o CMakeFiles/atmega128a.elf.dir/dht.c.s
+
+CMakeFiles/atmega128a.elf.dir/fan_led.c.obj: CMakeFiles/atmega128a.elf.dir/flags.make
+CMakeFiles/atmega128a.elf.dir/fan_led.c.obj: /home/user19/workspace_ondevice_3/atmega128a/fan_led.c
+CMakeFiles/atmega128a.elf.dir/fan_led.c.obj: CMakeFiles/atmega128a.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/atmega128a.elf.dir/fan_led.c.obj"
+	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega128a.elf.dir/fan_led.c.obj -MF CMakeFiles/atmega128a.elf.dir/fan_led.c.obj.d -o CMakeFiles/atmega128a.elf.dir/fan_led.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/fan_led.c
+
+CMakeFiles/atmega128a.elf.dir/fan_led.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/atmega128a.elf.dir/fan_led.c.i"
+	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/user19/workspace_ondevice_3/atmega128a/fan_led.c > CMakeFiles/atmega128a.elf.dir/fan_led.c.i
+
+CMakeFiles/atmega128a.elf.dir/fan_led.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/atmega128a.elf.dir/fan_led.c.s"
+	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/user19/workspace_ondevice_3/atmega128a/fan_led.c -o CMakeFiles/atmega128a.elf.dir/fan_led.c.s
+
+CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj: CMakeFiles/atmega128a.elf.dir/flags.make
+CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj: /home/user19/workspace_ondevice_3/atmega128a/fan_moter.c
+CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj: CMakeFiles/atmega128a.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj"
+	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj -MF CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj.d -o CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/fan_moter.c
+
+CMakeFiles/atmega128a.elf.dir/fan_moter.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/atmega128a.elf.dir/fan_moter.c.i"
+	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/user19/workspace_ondevice_3/atmega128a/fan_moter.c > CMakeFiles/atmega128a.elf.dir/fan_moter.c.i
+
+CMakeFiles/atmega128a.elf.dir/fan_moter.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/atmega128a.elf.dir/fan_moter.c.s"
+	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/user19/workspace_ondevice_3/atmega128a/fan_moter.c -o CMakeFiles/atmega128a.elf.dir/fan_moter.c.s
+
 CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj: CMakeFiles/atmega128a.elf.dir/flags.make
 CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj: /home/user19/workspace_ondevice_3/atmega128a/fndtimer.c
 CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj: CMakeFiles/atmega128a.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj"
 	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj -MF CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj.d -o CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/fndtimer.c
 
 CMakeFiles/atmega128a.elf.dir/fndtimer.c.i: cmake_force
@@ -100,7 +142,7 @@ CMakeFiles/atmega128a.elf.dir/fndtimer.c.s: cmake_force
 CMakeFiles/atmega128a.elf.dir/joystick.c.obj: CMakeFiles/atmega128a.elf.dir/flags.make
 CMakeFiles/atmega128a.elf.dir/joystick.c.obj: /home/user19/workspace_ondevice_3/atmega128a/joystick.c
 CMakeFiles/atmega128a.elf.dir/joystick.c.obj: CMakeFiles/atmega128a.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/atmega128a.elf.dir/joystick.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/atmega128a.elf.dir/joystick.c.obj"
 	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega128a.elf.dir/joystick.c.obj -MF CMakeFiles/atmega128a.elf.dir/joystick.c.obj.d -o CMakeFiles/atmega128a.elf.dir/joystick.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/joystick.c
 
 CMakeFiles/atmega128a.elf.dir/joystick.c.i: cmake_force
@@ -114,7 +156,7 @@ CMakeFiles/atmega128a.elf.dir/joystick.c.s: cmake_force
 CMakeFiles/atmega128a.elf.dir/lcd.c.obj: CMakeFiles/atmega128a.elf.dir/flags.make
 CMakeFiles/atmega128a.elf.dir/lcd.c.obj: /home/user19/workspace_ondevice_3/atmega128a/lcd.c
 CMakeFiles/atmega128a.elf.dir/lcd.c.obj: CMakeFiles/atmega128a.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/atmega128a.elf.dir/lcd.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/atmega128a.elf.dir/lcd.c.obj"
 	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega128a.elf.dir/lcd.c.obj -MF CMakeFiles/atmega128a.elf.dir/lcd.c.obj.d -o CMakeFiles/atmega128a.elf.dir/lcd.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/lcd.c
 
 CMakeFiles/atmega128a.elf.dir/lcd.c.i: cmake_force
@@ -128,7 +170,7 @@ CMakeFiles/atmega128a.elf.dir/lcd.c.s: cmake_force
 CMakeFiles/atmega128a.elf.dir/led.c.obj: CMakeFiles/atmega128a.elf.dir/flags.make
 CMakeFiles/atmega128a.elf.dir/led.c.obj: /home/user19/workspace_ondevice_3/atmega128a/led.c
 CMakeFiles/atmega128a.elf.dir/led.c.obj: CMakeFiles/atmega128a.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/atmega128a.elf.dir/led.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/atmega128a.elf.dir/led.c.obj"
 	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega128a.elf.dir/led.c.obj -MF CMakeFiles/atmega128a.elf.dir/led.c.obj.d -o CMakeFiles/atmega128a.elf.dir/led.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/led.c
 
 CMakeFiles/atmega128a.elf.dir/led.c.i: cmake_force
@@ -142,7 +184,7 @@ CMakeFiles/atmega128a.elf.dir/led.c.s: cmake_force
 CMakeFiles/atmega128a.elf.dir/main.c.obj: CMakeFiles/atmega128a.elf.dir/flags.make
 CMakeFiles/atmega128a.elf.dir/main.c.obj: /home/user19/workspace_ondevice_3/atmega128a/main.c
 CMakeFiles/atmega128a.elf.dir/main.c.obj: CMakeFiles/atmega128a.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/atmega128a.elf.dir/main.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/atmega128a.elf.dir/main.c.obj"
 	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega128a.elf.dir/main.c.obj -MF CMakeFiles/atmega128a.elf.dir/main.c.obj.d -o CMakeFiles/atmega128a.elf.dir/main.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/main.c
 
 CMakeFiles/atmega128a.elf.dir/main.c.i: cmake_force
@@ -156,7 +198,7 @@ CMakeFiles/atmega128a.elf.dir/main.c.s: cmake_force
 CMakeFiles/atmega128a.elf.dir/servo.c.obj: CMakeFiles/atmega128a.elf.dir/flags.make
 CMakeFiles/atmega128a.elf.dir/servo.c.obj: /home/user19/workspace_ondevice_3/atmega128a/servo.c
 CMakeFiles/atmega128a.elf.dir/servo.c.obj: CMakeFiles/atmega128a.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/atmega128a.elf.dir/servo.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/atmega128a.elf.dir/servo.c.obj"
 	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega128a.elf.dir/servo.c.obj -MF CMakeFiles/atmega128a.elf.dir/servo.c.obj.d -o CMakeFiles/atmega128a.elf.dir/servo.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/servo.c
 
 CMakeFiles/atmega128a.elf.dir/servo.c.i: cmake_force
@@ -167,29 +209,51 @@ CMakeFiles/atmega128a.elf.dir/servo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/atmega128a.elf.dir/servo.c.s"
 	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/user19/workspace_ondevice_3/atmega128a/servo.c -o CMakeFiles/atmega128a.elf.dir/servo.c.s
 
+CMakeFiles/atmega128a.elf.dir/system_timer.c.obj: CMakeFiles/atmega128a.elf.dir/flags.make
+CMakeFiles/atmega128a.elf.dir/system_timer.c.obj: /home/user19/workspace_ondevice_3/atmega128a/system_timer.c
+CMakeFiles/atmega128a.elf.dir/system_timer.c.obj: CMakeFiles/atmega128a.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/atmega128a.elf.dir/system_timer.c.obj"
+	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/atmega128a.elf.dir/system_timer.c.obj -MF CMakeFiles/atmega128a.elf.dir/system_timer.c.obj.d -o CMakeFiles/atmega128a.elf.dir/system_timer.c.obj -c /home/user19/workspace_ondevice_3/atmega128a/system_timer.c
+
+CMakeFiles/atmega128a.elf.dir/system_timer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/atmega128a.elf.dir/system_timer.c.i"
+	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/user19/workspace_ondevice_3/atmega128a/system_timer.c > CMakeFiles/atmega128a.elf.dir/system_timer.c.i
+
+CMakeFiles/atmega128a.elf.dir/system_timer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/atmega128a.elf.dir/system_timer.c.s"
+	/opt/microchip/avr-gcc/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/user19/workspace_ondevice_3/atmega128a/system_timer.c -o CMakeFiles/atmega128a.elf.dir/system_timer.c.s
+
 # Object files for target atmega128a.elf
 atmega128a_elf_OBJECTS = \
 "CMakeFiles/atmega128a.elf.dir/button.c.obj" \
+"CMakeFiles/atmega128a.elf.dir/dht.c.obj" \
+"CMakeFiles/atmega128a.elf.dir/fan_led.c.obj" \
+"CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj" \
 "CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj" \
 "CMakeFiles/atmega128a.elf.dir/joystick.c.obj" \
 "CMakeFiles/atmega128a.elf.dir/lcd.c.obj" \
 "CMakeFiles/atmega128a.elf.dir/led.c.obj" \
 "CMakeFiles/atmega128a.elf.dir/main.c.obj" \
-"CMakeFiles/atmega128a.elf.dir/servo.c.obj"
+"CMakeFiles/atmega128a.elf.dir/servo.c.obj" \
+"CMakeFiles/atmega128a.elf.dir/system_timer.c.obj"
 
 # External object files for target atmega128a.elf
 atmega128a_elf_EXTERNAL_OBJECTS =
 
 atmega128a.elf: CMakeFiles/atmega128a.elf.dir/button.c.obj
+atmega128a.elf: CMakeFiles/atmega128a.elf.dir/dht.c.obj
+atmega128a.elf: CMakeFiles/atmega128a.elf.dir/fan_led.c.obj
+atmega128a.elf: CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj
 atmega128a.elf: CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj
 atmega128a.elf: CMakeFiles/atmega128a.elf.dir/joystick.c.obj
 atmega128a.elf: CMakeFiles/atmega128a.elf.dir/lcd.c.obj
 atmega128a.elf: CMakeFiles/atmega128a.elf.dir/led.c.obj
 atmega128a.elf: CMakeFiles/atmega128a.elf.dir/main.c.obj
 atmega128a.elf: CMakeFiles/atmega128a.elf.dir/servo.c.obj
+atmega128a.elf: CMakeFiles/atmega128a.elf.dir/system_timer.c.obj
 atmega128a.elf: CMakeFiles/atmega128a.elf.dir/build.make
 atmega128a.elf: CMakeFiles/atmega128a.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable atmega128a.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/user19/workspace_ondevice_3/atmega128a/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking C executable atmega128a.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/atmega128a.elf.dir/link.txt --verbose=$(VERBOSE)
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Generating HEX file"
 	/opt/microchip/avr-gcc/bin/avr-objcopy -O ihex -R .eeprom atmega128a.elf /home/user19/workspace_ondevice_3/atmega128a/build/atmega128a.hex

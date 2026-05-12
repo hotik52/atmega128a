@@ -4,11 +4,6 @@
 
 #include "servo.h"
 
-#define JOYSTICK_DDR      DDRF
-#define JOYSTICK_PORT     PORTF
-#define JOYSTICK_X_CH     0
-#define JOYSTICK_Y_CH     1
-
 void Joystick_Init(void)
 {
     JOYSTICK_DDR &= ~(1 << JOYSTICK_X_CH);

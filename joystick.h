@@ -3,9 +3,8 @@
 
 #include <stdint.h>
 
-#define JOYSTICK_CENTER        512
-#define JOYSTICK_DEAD_ZONE     40
-#define SERVO_MAX_STEP         5
+#include "app_config.h"
+#include "pinmap.h"
 
 void Joystick_Init(void);
 void Joystick_UpdateServo(void);

@@ -3,19 +3,19 @@ Archive member included to satisfy reference by file (symbol)
 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
                               /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o (exit)
 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
-                              /tmp/ccH0EkwS.ltrans0.ltrans.o (__umulhisi3)
+                              /tmp/cc0YwIId.ltrans0.ltrans.o (__umulhisi3)
 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
-                              /tmp/ccH0EkwS.ltrans0.ltrans.o (__udivmodqi4)
+                              /tmp/cc0YwIId.ltrans0.ltrans.o (__udivmodqi4)
 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
-                              /tmp/ccH0EkwS.ltrans0.ltrans.o (__udivmodhi4)
+                              /tmp/cc0YwIId.ltrans0.ltrans.o (__udivmodhi4)
 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
-                              /tmp/ccH0EkwS.ltrans0.ltrans.o (__udivmodsi4)
+                              /tmp/cc0YwIId.ltrans0.ltrans.o (__udivmodsi4)
 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
-                              /tmp/ccH0EkwS.ltrans0.ltrans.o (__do_copy_data)
+                              /tmp/cc0YwIId.ltrans0.ltrans.o (__do_copy_data)
 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
-                              /tmp/ccH0EkwS.ltrans0.ltrans.o (__do_clear_bss)
+                              /tmp/cc0YwIId.ltrans0.ltrans.o (__do_clear_bss)
 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o)
-                              /tmp/ccH0EkwS.ltrans0.ltrans.o (snprintf)
+                              /tmp/cc0YwIId.ltrans0.ltrans.o (snprintf)
 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
                               /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o) (vfprintf)
 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
@@ -33,218 +33,334 @@ Discarded input sections
 
  .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
  .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
- .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
- .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
- .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
- .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
- .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
- .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
- .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
- .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
- .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
- .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
- .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
- .group         0x00000000        0xc /tmp/ccQ31SPo.debug.temp.o
- .comment       0x00000000       0x30 /tmp/ccQ31SPo.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00000000      0xc46 /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00000000       0x10 /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00000000      0x1c9 /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00000000      0x2fd /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00000000       0x9e /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00000000     0x138f /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00000000      0x204 /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00000000       0xcb /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00000000       0x34 /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00000000       0x18 /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00000000       0x6c /tmp/ccjCClET.debug.temp.o
- .comment       0x00000000       0x30 /tmp/ccjCClET.debug.temp.o
- .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
- .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
- .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
- .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
- .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
- .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
- .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
- .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
- .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
- .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
- .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
- .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
- .group         0x00000000        0xc /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00000000      0xc46 /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00000000      0x1c9 /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00000000       0x10 /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00000000       0x9e /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00000000     0x138f /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00000000      0x204 /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00000000       0xcb /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00000000       0x34 /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00000000       0x18 /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00000000       0x6c /tmp/ccTWaTQG.debug.temp.o
- .comment       0x00000000       0x30 /tmp/ccTWaTQG.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000      0xc46 /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000       0x10 /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000      0x1c9 /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000      0x2fd /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000       0x9e /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000     0x138f /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000      0x204 /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000       0xcb /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000       0x34 /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000       0x18 /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000       0x6c /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000       0x16 /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000       0x7d /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00000000       0x1c /tmp/cc8lRIx8.debug.temp.o
- .comment       0x00000000       0x30 /tmp/cc8lRIx8.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpTkDd5.debug.temp.o
- .debug_info    0x00000000       0xed /tmp/ccpTkDd5.debug.temp.o
- .debug_abbrev  0x00000000       0xbe /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0xe4 /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000      0xc46 /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000      0x1c9 /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000      0x2fd /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0x58 /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0x10 /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0x9e /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0xf2 /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0x22 /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0x1c /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0x9e /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0x5f /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0xaa /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000     0x138f /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000      0x204 /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0xcb /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0x34 /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0x18 /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0x6c /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0x10 /tmp/ccpTkDd5.debug.temp.o
- .debug_macro   0x00000000       0x10 /tmp/ccpTkDd5.debug.temp.o
- .debug_line    0x00000000       0xa9 /tmp/ccpTkDd5.debug.temp.o
- .debug_str     0x00000000     0x7b50 /tmp/ccpTkDd5.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccnqq68C.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccnqq68C.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccnqq68C.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccnqq68C.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccnqq68C.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccnqq68C.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccnqq68C.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccnqq68C.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccnqq68C.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccnqq68C.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccnqq68C.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccnqq68C.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccnqq68C.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccnqq68C.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00000000      0x2fd /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00000000       0x94 /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00000000       0xd0 /tmp/ccyrTwXH.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccyrTwXH.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00000000      0x2fd /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00000000       0x94 /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00000000       0xd0 /tmp/ccyaAiJh.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccyaAiJh.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000      0x2fd /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000       0x94 /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000       0xd0 /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00000000       0x7d /tmp/ccERryKD.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccERryKD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000      0x2fd /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000       0x7d /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000       0x94 /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00000000       0xd0 /tmp/ccAk0ewj.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccAk0ewj.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccs2IQYR.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccs2IQYR.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccs2IQYR.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccs2IQYR.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccs2IQYR.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccs2IQYR.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccs2IQYR.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccs2IQYR.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccs2IQYR.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccs2IQYR.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccs2IQYR.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccs2IQYR.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x00000000       0x94 /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccs2IQYR.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccs2IQYR.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000      0x2fd /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000       0x16 /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000       0x94 /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000       0xd0 /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00000000       0x7d /tmp/cck9pSJM.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/cck9pSJM.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccNNZUoy.debug.temp.o
+ .debug_info    0x00000000       0xed /tmp/ccNNZUoy.debug.temp.o
+ .debug_abbrev  0x00000000       0xbe /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0xe8 /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000      0x2fd /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0x58 /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0xf2 /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0x22 /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0x1c /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0x5f /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0xaa /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccNNZUoy.debug.temp.o
+ .debug_macro   0x00000000       0xd0 /tmp/ccNNZUoy.debug.temp.o
+ .debug_line    0x00000000       0xae /tmp/ccNNZUoy.debug.temp.o
+ .debug_str     0x00000000     0x7d59 /tmp/ccNNZUoy.debug.temp.o
  .debug_line_str
-                0x00000000      0x1e0 /tmp/ccpTkDd5.debug.temp.o
- .comment       0x00000000       0x30 /tmp/ccpTkDd5.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000      0xc46 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000      0x1c9 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0x16 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000      0x303 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0xaa /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000     0x138f /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000      0x204 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0xcb /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0x34 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0x18 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0x6c /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0x34 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0x22 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0x58 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0x10 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0x9e /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0xf2 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0x64 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0x7d /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00000000       0x1c /tmp/ccNyagwW.debug.temp.o
- .comment       0x00000000       0x30 /tmp/ccNyagwW.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
- .group         0x00000000        0xc /tmp/ccpzzUvJ.debug.temp.o
- .debug_macro   0x00000000      0xc46 /tmp/ccpzzUvJ.debug.temp.o
- .debug_macro   0x00000000      0x1c9 /tmp/ccpzzUvJ.debug.temp.o
- .debug_macro   0x00000000       0x10 /tmp/ccpzzUvJ.debug.temp.o
- .debug_macro   0x00000000      0x303 /tmp/ccpzzUvJ.debug.temp.o
- .debug_macro   0x00000000       0x9e /tmp/ccpzzUvJ.debug.temp.o
- .debug_macro   0x00000000     0x138f /tmp/ccpzzUvJ.debug.temp.o
- .debug_macro   0x00000000      0x204 /tmp/ccpzzUvJ.debug.temp.o
- .debug_macro   0x00000000       0xcb /tmp/ccpzzUvJ.debug.temp.o
- .debug_macro   0x00000000       0x34 /tmp/ccpzzUvJ.debug.temp.o
- .debug_macro   0x00000000       0x18 /tmp/ccpzzUvJ.debug.temp.o
- .debug_macro   0x00000000       0x6c /tmp/ccpzzUvJ.debug.temp.o
- .comment       0x00000000       0x30 /tmp/ccpzzUvJ.debug.temp.o
+                0x00000000      0x1e9 /tmp/ccNNZUoy.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccNNZUoy.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000       0x16 /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000      0x303 /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000       0xaa /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000       0x94 /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000       0xd0 /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000       0x58 /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000       0xf2 /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x00000000       0x7d /tmp/ccZhMt7G.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccZhMt7G.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccSnwLHD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccSnwLHD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccSnwLHD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccSnwLHD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccSnwLHD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccSnwLHD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccSnwLHD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccSnwLHD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccSnwLHD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccSnwLHD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccSnwLHD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccSnwLHD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00000000       0x94 /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00000000      0x303 /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00000000       0xca /tmp/ccSnwLHD.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccSnwLHD.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccmKeSxg.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccmKeSxg.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccmKeSxg.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccmKeSxg.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccmKeSxg.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccmKeSxg.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccmKeSxg.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccmKeSxg.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccmKeSxg.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccmKeSxg.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccmKeSxg.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccmKeSxg.debug.temp.o
+ .group         0x00000000        0xc /tmp/ccmKeSxg.debug.temp.o
+ .debug_macro   0x00000000      0xc46 /tmp/ccmKeSxg.debug.temp.o
+ .debug_macro   0x00000000      0x1c9 /tmp/ccmKeSxg.debug.temp.o
+ .debug_macro   0x00000000       0x10 /tmp/ccmKeSxg.debug.temp.o
+ .debug_macro   0x00000000      0x303 /tmp/ccmKeSxg.debug.temp.o
+ .debug_macro   0x00000000       0x9e /tmp/ccmKeSxg.debug.temp.o
+ .debug_macro   0x00000000     0x138f /tmp/ccmKeSxg.debug.temp.o
+ .debug_macro   0x00000000      0x204 /tmp/ccmKeSxg.debug.temp.o
+ .debug_macro   0x00000000       0xcb /tmp/ccmKeSxg.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccmKeSxg.debug.temp.o
+ .debug_macro   0x00000000       0x18 /tmp/ccmKeSxg.debug.temp.o
+ .debug_macro   0x00000000       0x6c /tmp/ccmKeSxg.debug.temp.o
+ .debug_macro   0x00000000       0x7d /tmp/ccmKeSxg.debug.temp.o
+ .debug_macro   0x00000000       0x34 /tmp/ccmKeSxg.debug.temp.o
+ .comment       0x00000000       0x30 /tmp/ccmKeSxg.debug.temp.o
  .text          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
  .data          0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
  .bss           0x00000000        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
@@ -400,20 +516,28 @@ Address of section .data set to 0x800100
 LOAD /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
 LOAD /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libm.a
 LOAD CMakeFiles/atmega128a.elf.dir/button.c.obj
-LOAD /tmp/ccH0EkwS.ltrans0.ltrans.o
-LOAD /tmp/ccQ31SPo.debug.temp.o
-LOAD /tmp/ccjCClET.debug.temp.o
-LOAD /tmp/ccTWaTQG.debug.temp.o
-LOAD /tmp/cc8lRIx8.debug.temp.o
-LOAD /tmp/ccpTkDd5.debug.temp.o
-LOAD /tmp/ccNyagwW.debug.temp.o
-LOAD /tmp/ccpzzUvJ.debug.temp.o
+LOAD /tmp/cc0YwIId.ltrans0.ltrans.o
+LOAD /tmp/ccnqq68C.debug.temp.o
+LOAD /tmp/ccyrTwXH.debug.temp.o
+LOAD /tmp/ccyaAiJh.debug.temp.o
+LOAD /tmp/ccERryKD.debug.temp.o
+LOAD /tmp/ccAk0ewj.debug.temp.o
+LOAD /tmp/ccs2IQYR.debug.temp.o
+LOAD /tmp/cck9pSJM.debug.temp.o
+LOAD /tmp/ccNNZUoy.debug.temp.o
+LOAD /tmp/ccZhMt7G.debug.temp.o
+LOAD /tmp/ccSnwLHD.debug.temp.o
+LOAD /tmp/ccmKeSxg.debug.temp.o
+LOAD CMakeFiles/atmega128a.elf.dir/dht.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/fan_led.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj
 LOAD CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj
 LOAD CMakeFiles/atmega128a.elf.dir/joystick.c.obj
 LOAD CMakeFiles/atmega128a.elf.dir/lcd.c.obj
 LOAD CMakeFiles/atmega128a.elf.dir/led.c.obj
 LOAD CMakeFiles/atmega128a.elf.dir/main.c.obj
 LOAD CMakeFiles/atmega128a.elf.dir/servo.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/system_timer.c.obj
 START GROUP
 LOAD /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a
 LOAD /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libm.a
@@ -520,7 +644,7 @@ END GROUP
 .rela.plt
  *(.rela.plt)
 
-.text           0x00000000     0x118e
+.text           0x00000000     0x1190
  *(.vectors)
  .vectors       0x00000000       0x28 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
                 0x00000000                __vectors
@@ -586,50 +710,50 @@ END GROUP
                 0x00000066                __vector_4
                 0x00000066                __vector_2
                 0x00000066                __vector_8
- .text          0x0000006a      0x218 /tmp/ccH0EkwS.ltrans0.ltrans.o
+ .text          0x0000006a      0x218 /tmp/cc0YwIId.ltrans0.ltrans.o
                 0x000001da                __vector_9
                 0x00000282                        . = ALIGN (0x2)
  *(.text.*)
- .text.startup  0x00000282      0x86e /tmp/ccH0EkwS.ltrans0.ltrans.o
+ .text.startup  0x00000282      0x870 /tmp/cc0YwIId.ltrans0.ltrans.o
                 0x00000282                main
  .text.libgcc.mul
-                0x00000af0       0x1e /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
-                0x00000af0                __umulhisi3
+                0x00000af2       0x1e /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
+                0x00000af2                __umulhisi3
  .text.libgcc.div
-                0x00000b0e       0x18 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
-                0x00000b0e                __udivmodqi4
+                0x00000b10       0x18 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
+                0x00000b10                __udivmodqi4
  .text.libgcc.div
-                0x00000b26       0x28 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
-                0x00000b26                __udivmodhi4
+                0x00000b28       0x28 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
+                0x00000b28                __udivmodhi4
  .text.libgcc.div
-                0x00000b4e       0x44 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
-                0x00000b4e                __udivmodsi4
+                0x00000b50       0x44 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
+                0x00000b50                __udivmodsi4
  .text.libgcc.div
-                0x00000b92       0x10 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
-                0x00000b92                __negsi2
+                0x00000b94       0x10 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
+                0x00000b94                __negsi2
  .text.avr-libc
-                0x00000ba2       0x78 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o)
-                0x00000ba2                snprintf
+                0x00000ba4       0x78 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o)
+                0x00000ba4                snprintf
  .text.avr-libc
-                0x00000c1a      0x428 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
-                0x00000c1a                vfprintf
+                0x00000c1c      0x428 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                0x00000c1c                vfprintf
  .text.avr-libc
-                0x00001042       0x16 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
-                0x00001042                strnlen_P
+                0x00001044       0x16 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
+                0x00001044                strnlen_P
  .text.avr-libc
-                0x00001058       0x16 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
-                0x00001058                strnlen
+                0x0000105a       0x16 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
+                0x0000105a                strnlen
  .text.avr-libc
-                0x0000106e       0x60 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(fputc.o)
-                0x0000106e                fputc
+                0x00001070       0x60 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+                0x00001070                fputc
  .text.avr-libc
-                0x000010ce       0xbc /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
-                0x000010ce                __ultoa_invert
-                0x0000118a                        . = ALIGN (0x2)
+                0x000010d0       0xbc /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+                0x000010d0                __ultoa_invert
+                0x0000118c                        . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x0000118a        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
-                0x0000118a                exit
-                0x0000118a                _exit
+ .fini9         0x0000118c        0x0 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+                0x0000118c                exit
+                0x0000118c                _exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
@@ -648,27 +772,27 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x0000118a        0x4 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
+ .fini0         0x0000118c        0x4 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
  *(.fini0)
  *(.hightext)
  *(.hightext*)
  *(.progmemx.*)
-                0x0000118e                        . = ALIGN (0x2)
+                0x00001190                        . = ALIGN (0x2)
  *(.jumptables)
  *(.jumptables*)
-                0x0000118e                        _etext = .
+                0x00001190                        _etext = .
 
-.data           0x00800100       0x82 load address 0x0000118e
+.data           0x00800100       0x82 load address 0x00001190
                 0x00800100                        PROVIDE (__data_start = .)
  *(.data)
- .data          0x00800100        0x6 /tmp/ccH0EkwS.ltrans0.ltrans.o
+ .data          0x00800100        0x6 /tmp/cc0YwIId.ltrans0.ltrans.o
  *(.data*)
  *(.gnu.linkonce.d*)
  *(.rodata)
- .rodata        0x00800106       0x16 /tmp/ccH0EkwS.ltrans0.ltrans.o
+ .rodata        0x00800106       0x16 /tmp/cc0YwIId.ltrans0.ltrans.o
  *(.rodata*)
  .rodata.str1.1
-                0x0080011c       0x66 /tmp/ccH0EkwS.ltrans0.ltrans.o
+                0x0080011c       0x66 /tmp/cc0YwIId.ltrans0.ltrans.o
  *(.gnu.linkonce.r*)
                 0x00800182                        . = ALIGN (0x2)
                 0x00800182                        _edata = .
@@ -677,12 +801,12 @@ END GROUP
 .bss            0x00800182       0x11
                 0x00800182                        PROVIDE (__bss_start = .)
  *(.bss)
- .bss           0x00800182       0x11 /tmp/ccH0EkwS.ltrans0.ltrans.o
+ .bss           0x00800182       0x11 /tmp/cc0YwIId.ltrans0.ltrans.o
  *(.bss*)
  *(COMMON)
                 0x00800193                        PROVIDE (__bss_end = .)
-                0x0000118e                        __data_load_start = LOADADDR (.data)
-                0x00001210                        __data_load_end = (__data_load_start + SIZEOF (.data))
+                0x00001190                        __data_load_start = LOADADDR (.data)
+                0x00001212                        __data_load_end = (__data_load_start + SIZEOF (.data))
 
 .noinit         0x00800193        0x0
                 [!provide]                        PROVIDE (__noinit_start = .)
@@ -729,7 +853,7 @@ END GROUP
 
 .comment        0x00000000       0x5c
  *(.comment)
- .comment       0x00000000       0x5c /tmp/ccH0EkwS.ltrans0.ltrans.o
+ .comment       0x00000000       0x5c /tmp/cc0YwIId.ltrans0.ltrans.o
                                  0x30 (size before relaxing)
  .comment       0x0000005c       0x2e /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o)
  .comment       0x0000005c       0x2e /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
@@ -761,65 +885,85 @@ END GROUP
 .debug_aranges  0x00000000       0x28
  *(.debug_aranges)
  .debug_aranges
-                0x00000000       0x28 /tmp/ccH0EkwS.ltrans0.ltrans.o
+                0x00000000       0x28 /tmp/cc0YwIId.ltrans0.ltrans.o
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0x2c3e
+.debug_info     0x00000000     0x2f13
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000      0x780 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
- .debug_info    0x00000780     0x157b /tmp/ccH0EkwS.ltrans0.ltrans.o
- .debug_info    0x00001cfb      0x154 /tmp/ccQ31SPo.debug.temp.o
-                0x00001cfb                button.c.4479c5e1
- .debug_info    0x00001e4f      0x391 /tmp/ccjCClET.debug.temp.o
-                0x00001e4f                fndtimer.c.488a28bd
- .debug_info    0x000021e0      0x107 /tmp/ccTWaTQG.debug.temp.o
-                0x000021e0                joystick.c.1e034d0d
- .debug_info    0x000022e7      0x421 /tmp/cc8lRIx8.debug.temp.o
-                0x000022e7                lcd.c.7d169ec2
- .debug_info    0x00002708      0x3ff /tmp/ccNyagwW.debug.temp.o
-                0x00002708                main.c.a8878780
- .debug_info    0x00002b07      0x137 /tmp/ccpzzUvJ.debug.temp.o
-                0x00002b07                servo.c.27116693
+ .debug_info    0x00000780     0x1599 /tmp/cc0YwIId.ltrans0.ltrans.o
+ .debug_info    0x00001d19      0x154 /tmp/ccnqq68C.debug.temp.o
+                0x00001d19                button.c.a47208fe
+ .debug_info    0x00001e6d      0x198 /tmp/ccyrTwXH.debug.temp.o
+                0x00001e6d                dht.c.62db4987
+ .debug_info    0x00002005       0xc0 /tmp/ccyaAiJh.debug.temp.o
+                0x00002005                fan_led.c.e5fa9bc0
+ .debug_info    0x000020c5      0x18a /tmp/ccERryKD.debug.temp.o
+                0x000020c5                fan_moter.c.5d371b1a
+ .debug_info    0x0000224f      0x2e5 /tmp/ccAk0ewj.debug.temp.o
+                0x0000224f                fndtimer.c.a3dd2b7a
+ .debug_info    0x00002534      0x107 /tmp/ccs2IQYR.debug.temp.o
+                0x00002534                joystick.c.78b19003
+ .debug_info    0x0000263b      0x260 /tmp/cck9pSJM.debug.temp.o
+                0x0000263b                lcd.c.dee9c55e
+ .debug_info    0x0000289b      0x3ff /tmp/ccZhMt7G.debug.temp.o
+                0x0000289b                main.c.fb7f8ef4
+ .debug_info    0x00002c9a      0x137 /tmp/ccSnwLHD.debug.temp.o
+                0x00002c9a                servo.c.2623a49a
+ .debug_info    0x00002dd1      0x142 /tmp/ccmKeSxg.debug.temp.o
+                0x00002dd1                system_timer.c.6f22e685
 
-.debug_abbrev   0x00000000      0xf64
+.debug_abbrev   0x00000000     0x1202
  *(.debug_abbrev)
  .debug_abbrev  0x00000000      0x718 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
- .debug_abbrev  0x00000718      0x1c5 /tmp/ccH0EkwS.ltrans0.ltrans.o
- .debug_abbrev  0x000008dd       0xf2 /tmp/ccQ31SPo.debug.temp.o
- .debug_abbrev  0x000009cf      0x12a /tmp/ccjCClET.debug.temp.o
- .debug_abbrev  0x00000af9       0xc1 /tmp/ccTWaTQG.debug.temp.o
- .debug_abbrev  0x00000bba      0x1c5 /tmp/cc8lRIx8.debug.temp.o
- .debug_abbrev  0x00000d7f      0x153 /tmp/ccNyagwW.debug.temp.o
- .debug_abbrev  0x00000ed2       0x92 /tmp/ccpzzUvJ.debug.temp.o
+ .debug_abbrev  0x00000718      0x180 /tmp/cc0YwIId.ltrans0.ltrans.o
+ .debug_abbrev  0x00000898       0xf2 /tmp/ccnqq68C.debug.temp.o
+ .debug_abbrev  0x0000098a      0x11f /tmp/ccyrTwXH.debug.temp.o
+ .debug_abbrev  0x00000aa9       0x95 /tmp/ccyaAiJh.debug.temp.o
+ .debug_abbrev  0x00000b3e       0xad /tmp/ccERryKD.debug.temp.o
+ .debug_abbrev  0x00000beb      0x14b /tmp/ccAk0ewj.debug.temp.o
+ .debug_abbrev  0x00000d36       0xc1 /tmp/ccs2IQYR.debug.temp.o
+ .debug_abbrev  0x00000df7      0x136 /tmp/cck9pSJM.debug.temp.o
+ .debug_abbrev  0x00000f2d      0x153 /tmp/ccZhMt7G.debug.temp.o
+ .debug_abbrev  0x00001080       0x92 /tmp/ccSnwLHD.debug.temp.o
+ .debug_abbrev  0x00001112       0xf0 /tmp/ccmKeSxg.debug.temp.o
 
-.debug_line     0x00000000     0x2424
+.debug_line     0x00000000     0x26f4
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x00000000       0x1d /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
- .debug_line    0x0000001d     0x2081 /tmp/ccH0EkwS.ltrans0.ltrans.o
- .debug_line    0x0000209e       0x82 /tmp/ccQ31SPo.debug.temp.o
- .debug_line    0x00002120       0x9a /tmp/ccjCClET.debug.temp.o
- .debug_line    0x000021ba       0x87 /tmp/ccTWaTQG.debug.temp.o
- .debug_line    0x00002241       0xa9 /tmp/cc8lRIx8.debug.temp.o
- .debug_line    0x000022ea       0xb8 /tmp/ccNyagwW.debug.temp.o
- .debug_line    0x000023a2       0x82 /tmp/ccpzzUvJ.debug.temp.o
+ .debug_line    0x0000001d     0x20ba /tmp/cc0YwIId.ltrans0.ltrans.o
+ .debug_line    0x000020d7       0x8c /tmp/ccnqq68C.debug.temp.o
+ .debug_line    0x00002163       0x9a /tmp/ccyrTwXH.debug.temp.o
+ .debug_line    0x000021fd       0x91 /tmp/ccyaAiJh.debug.temp.o
+ .debug_line    0x0000228e       0x96 /tmp/ccERryKD.debug.temp.o
+ .debug_line    0x00002324       0x9f /tmp/ccAk0ewj.debug.temp.o
+ .debug_line    0x000023c3       0x91 /tmp/ccs2IQYR.debug.temp.o
+ .debug_line    0x00002454       0xb3 /tmp/cck9pSJM.debug.temp.o
+ .debug_line    0x00002507       0xd1 /tmp/ccZhMt7G.debug.temp.o
+ .debug_line    0x000025d8       0x8c /tmp/ccSnwLHD.debug.temp.o
+ .debug_line    0x00002664       0x90 /tmp/ccmKeSxg.debug.temp.o
 
 .debug_frame    0x00000000      0x11c
  *(.debug_frame)
- .debug_frame   0x00000000      0x11c /tmp/ccH0EkwS.ltrans0.ltrans.o
+ .debug_frame   0x00000000      0x11c /tmp/cc0YwIId.ltrans0.ltrans.o
 
-.debug_str      0x00000000     0x8a22
+.debug_str      0x00000000     0x8b98
  *(.debug_str)
  .debug_str     0x00000000      0x27d /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
- .debug_str     0x0000027d     0x87a5 /tmp/ccH0EkwS.ltrans0.ltrans.o
+ .debug_str     0x0000027d     0x891b /tmp/cc0YwIId.ltrans0.ltrans.o
                                  0xf7 (size before relaxing)
- .debug_str     0x00008a22     0x72a1 /tmp/ccQ31SPo.debug.temp.o
- .debug_str     0x00008a22     0x7b0f /tmp/ccjCClET.debug.temp.o
- .debug_str     0x00008a22     0x7339 /tmp/ccTWaTQG.debug.temp.o
- .debug_str     0x00008a22     0x805a /tmp/cc8lRIx8.debug.temp.o
- .debug_str     0x00008a22     0x81d7 /tmp/ccNyagwW.debug.temp.o
- .debug_str     0x00008a22     0x732c /tmp/ccpzzUvJ.debug.temp.o
+ .debug_str     0x00008b98     0x7626 /tmp/ccnqq68C.debug.temp.o
+ .debug_str     0x00008b98     0x76f2 /tmp/ccyrTwXH.debug.temp.o
+ .debug_str     0x00008b98     0x7a26 /tmp/ccyaAiJh.debug.temp.o
+ .debug_str     0x00008b98     0x7b0f /tmp/ccERryKD.debug.temp.o
+ .debug_str     0x00008b98     0x7dd8 /tmp/ccAk0ewj.debug.temp.o
+ .debug_str     0x00008b98     0x7676 /tmp/ccs2IQYR.debug.temp.o
+ .debug_str     0x00008b98     0x81e2 /tmp/cck9pSJM.debug.temp.o
+ .debug_str     0x00008b98     0x83b0 /tmp/ccZhMt7G.debug.temp.o
+ .debug_str     0x00008b98     0x76ae /tmp/ccSnwLHD.debug.temp.o
+ .debug_str     0x00008b98     0x789b /tmp/ccmKeSxg.debug.temp.o
 
 .debug_loc
  *(.debug_loc)
@@ -849,64 +993,72 @@ END GROUP
  *(.debug_addr)
 
 .debug_line_str
-                0x00000000      0x31a
+                0x00000000      0x43a
  *(.debug_line_str)
  .debug_line_str
-                0x00000000      0x31a /tmp/ccH0EkwS.ltrans0.ltrans.o
-                                0x11a (size before relaxing)
+                0x00000000      0x43a /tmp/cc0YwIId.ltrans0.ltrans.o
+                                0x145 (size before relaxing)
  .debug_line_str
-                0x0000031a      0x17e /tmp/ccQ31SPo.debug.temp.o
+                0x0000043a      0x194 /tmp/ccnqq68C.debug.temp.o
  .debug_line_str
-                0x0000031a      0x1d7 /tmp/ccjCClET.debug.temp.o
+                0x0000043a      0x1c9 /tmp/ccyrTwXH.debug.temp.o
  .debug_line_str
-                0x0000031a      0x18c /tmp/ccTWaTQG.debug.temp.o
+                0x0000043a      0x1a3 /tmp/ccyaAiJh.debug.temp.o
  .debug_line_str
-                0x0000031a      0x1e4 /tmp/cc8lRIx8.debug.temp.o
+                0x0000043a      0x1b4 /tmp/ccERryKD.debug.temp.o
  .debug_line_str
-                0x0000031a      0x202 /tmp/ccNyagwW.debug.temp.o
+                0x0000043a      0x1e6 /tmp/ccAk0ewj.debug.temp.o
  .debug_line_str
-                0x0000031a      0x17b /tmp/ccpzzUvJ.debug.temp.o
+                0x0000043a      0x1a2 /tmp/ccs2IQYR.debug.temp.o
+ .debug_line_str
+                0x0000043a      0x1fa /tmp/cck9pSJM.debug.temp.o
+ .debug_line_str
+                0x0000043a      0x237 /tmp/ccZhMt7G.debug.temp.o
+ .debug_line_str
+                0x0000043a      0x191 /tmp/ccSnwLHD.debug.temp.o
+ .debug_line_str
+                0x0000043a      0x1cd /tmp/ccmKeSxg.debug.temp.o
 
 .debug_loclists
-                0x00000000     0x1162
+                0x00000000     0x115e
  *(.debug_loclists)
  .debug_loclists
-                0x00000000     0x1162 /tmp/ccH0EkwS.ltrans0.ltrans.o
+                0x00000000     0x115e /tmp/cc0YwIId.ltrans0.ltrans.o
 
-.debug_macro    0x00000000     0x3438
+.debug_macro    0x00000000     0x3836
  *(.debug_macro)
- .debug_macro   0x00000000       0x90 /tmp/ccQ31SPo.debug.temp.o
- .debug_macro   0x00000090      0xc46 /tmp/ccQ31SPo.debug.temp.o
- .debug_macro   0x00000cd6       0x10 /tmp/ccQ31SPo.debug.temp.o
- .debug_macro   0x00000ce6      0x1c9 /tmp/ccQ31SPo.debug.temp.o
- .debug_macro   0x00000eaf      0x2fd /tmp/ccQ31SPo.debug.temp.o
- .debug_macro   0x000011ac       0x9e /tmp/ccQ31SPo.debug.temp.o
- .debug_macro   0x0000124a     0x138f /tmp/ccQ31SPo.debug.temp.o
- .debug_macro   0x000025d9      0x204 /tmp/ccQ31SPo.debug.temp.o
- .debug_macro   0x000027dd       0xcb /tmp/ccQ31SPo.debug.temp.o
- .debug_macro   0x000028a8       0x34 /tmp/ccQ31SPo.debug.temp.o
- .debug_macro   0x000028dc       0x18 /tmp/ccQ31SPo.debug.temp.o
- .debug_macro   0x000028f4       0x6c /tmp/ccQ31SPo.debug.temp.o
- .debug_macro   0x00002960       0x34 /tmp/ccQ31SPo.debug.temp.o
- .debug_macro   0x00002994       0xbb /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00002a4f       0x7d /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00002acc       0x16 /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00002ae2       0x1c /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00002afe       0x34 /tmp/ccjCClET.debug.temp.o
- .debug_macro   0x00002b32       0xb1 /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00002be3       0x16 /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00002bf9      0x303 /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00002efc       0x22 /tmp/ccTWaTQG.debug.temp.o
- .debug_macro   0x00002f1e       0xe7 /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00003005       0x58 /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x0000305d       0x10 /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x0000306d       0x9e /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x0000310b       0xf2 /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x000031fd       0x64 /tmp/cc8lRIx8.debug.temp.o
- .debug_macro   0x00003261       0xf7 /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00003358       0x1c /tmp/ccNyagwW.debug.temp.o
- .debug_macro   0x00003374       0xa8 /tmp/ccpzzUvJ.debug.temp.o
- .debug_macro   0x0000341c       0x1c /tmp/ccpzzUvJ.debug.temp.o
+ .debug_macro   0x00000000       0x9d /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x0000009d      0xc46 /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x00000ce3       0x10 /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x00000cf3      0x1c9 /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x00000ebc      0x2fd /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x000011b9       0x9e /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x00001257     0x138f /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x000025e6      0x204 /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x000027ea       0xcb /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x000028b5       0x34 /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x000028e9       0x18 /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x00002901       0x6c /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x0000296d       0x94 /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x00002a01       0xd0 /tmp/ccnqq68C.debug.temp.o
+ .debug_macro   0x00002ad1       0xb6 /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00002b87       0x16 /tmp/ccyrTwXH.debug.temp.o
+ .debug_macro   0x00002b9d       0xac /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00002c49       0x7d /tmp/ccyaAiJh.debug.temp.o
+ .debug_macro   0x00002cc6       0xb6 /tmp/ccERryKD.debug.temp.o
+ .debug_macro   0x00002d7c       0xbf /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00002e3b       0x34 /tmp/ccAk0ewj.debug.temp.o
+ .debug_macro   0x00002e6f       0xad /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x00002f1c      0x303 /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x0000321f       0xca /tmp/ccs2IQYR.debug.temp.o
+ .debug_macro   0x000032e9       0xf5 /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x000033de       0x58 /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00003436       0x10 /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x00003446       0x9e /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x000034e4       0xf2 /tmp/cck9pSJM.debug.temp.o
+ .debug_macro   0x000035d6      0x120 /tmp/ccZhMt7G.debug.temp.o
+ .debug_macro   0x000036f6       0xa3 /tmp/ccSnwLHD.debug.temp.o
+ .debug_macro   0x00003799       0x9d /tmp/ccmKeSxg.debug.temp.o
 
 .debug_names
  *(.debug_names)
@@ -915,7 +1067,7 @@ END GROUP
                 0x00000000      0x1f5
  *(.debug_rnglists)
  .debug_rnglists
-                0x00000000      0x1f5 /tmp/ccH0EkwS.ltrans0.ltrans.o
+                0x00000000      0x1f5 /tmp/cc0YwIId.ltrans0.ltrans.o
 
 .debug_str_offsets
  *(.debug_str_offsets)
@@ -932,23 +1084,24 @@ ButtonGetState                                    CMakeFiles/atmega128a.elf.dir/
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
 ButtonInit                                        CMakeFiles/atmega128a.elf.dir/button.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
-DHT_Read                                          CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+DHT_Read                                          CMakeFiles/atmega128a.elf.dir/dht.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
-DHT_SetInput                                      CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+DHT_SetInput                                      CMakeFiles/atmega128a.elf.dir/dht.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
-FAN_GetTargetDuty                                 CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+FAN_GetTargetDuty                                 CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
-FAN_RampDuty                                      CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+FAN_RampDuty                                      CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
-FAN_getDutyPercent                                CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+FAN_getDutyPercent                                CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
-FAN_init                                          CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+FAN_init                                          CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
-FAN_speed                                         CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+FAN_speed                                         CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
-FanLed_DisplayDuty                                CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+FanLed_DisplayDuty                                CMakeFiles/atmega128a.elf.dir/fan_led.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
-FanLed_Init                                       CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
+FanLed_Init                                       CMakeFiles/atmega128a.elf.dir/fan_led.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
 I2C_Init                                          CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
@@ -998,24 +1151,24 @@ __data_end                                        /opt/microchip/avr-gcc/bin/../
 __data_load_start                                 /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
 __data_start                                      /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
 __do_clear_bss                                    /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_clear_bss.o)
-                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
 __do_copy_data                                    /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_copy_data.o)
-                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
 __heap_end                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
 __init                                            /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
 __negsi2                                          /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_negsi2.o)
                                                   /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
 __stack                                           /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
 __udivmodhi4                                      /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodhi4.o)
-                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
 __udivmodqi4                                      /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodqi4.o)
-                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
 __udivmodsi4                                      /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_udivmodsi4.o)
-                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
 __ultoa_invert                                    /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
                                                   /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
 __umulhisi3                                       /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_umulhisi3.o)
-                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
 __vector_1                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
 __vector_2                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
 __vector_3                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
@@ -1024,52 +1177,63 @@ __vector_5                                        /opt/microchip/avr-gcc/bin/../
 __vector_6                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
 __vector_7                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
 __vector_8                                        /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
-__vector_9                                        /tmp/ccH0EkwS.ltrans0.ltrans.o
+__vector_9                                        /tmp/cc0YwIId.ltrans0.ltrans.o
                                                   CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
                                                   /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
 __vector_default                                  /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
 __vectors                                         /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
 _exit                                             /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
-button.c.4479c5e1                                 /tmp/ccQ31SPo.debug.temp.o
-                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+button.c.a47208fe                                 /tmp/ccnqq68C.debug.temp.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
+dht.c.62db4987                                    /tmp/ccyrTwXH.debug.temp.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
 exit                                              /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/avr51/libgcc.a(_exit.o)
                                                   /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
+fan_led.c.e5fa9bc0                                /tmp/ccyaAiJh.debug.temp.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
+fan_moter.c.5d371b1a                              /tmp/ccERryKD.debug.temp.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
 fnd_display_digit                                 CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
 fnd_init                                          CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
-fnd_millis_elapsed                                CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
-fnd_millis_get                                    CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
-fndtimer.c.488a28bd                               /tmp/ccjCClET.debug.temp.o
-                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+fndtimer.c.a3dd2b7a                               /tmp/ccAk0ewj.debug.temp.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
 fputc                                             /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(fputc.o)
                                                   /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
-joystick.c.1e034d0d                               /tmp/ccTWaTQG.debug.temp.o
-                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
-lcd.c.7d169ec2                                    /tmp/cc8lRIx8.debug.temp.o
-                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
-led.c.4b72ec1d                                    /tmp/ccpTkDd5.debug.temp.o
+joystick.c.78b19003                               /tmp/ccs2IQYR.debug.temp.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
+lcd.c.dee9c55e                                    /tmp/cck9pSJM.debug.temp.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
+led.c.13fc4166                                    /tmp/ccNNZUoy.debug.temp.o
 ledInit                                           CMakeFiles/atmega128a.elf.dir/led.c.obj (symbol from plugin)
 ledOff                                            CMakeFiles/atmega128a.elf.dir/led.c.obj (symbol from plugin)
 ledOn                                             CMakeFiles/atmega128a.elf.dir/led.c.obj (symbol from plugin)
-main                                              /tmp/ccH0EkwS.ltrans0.ltrans.o
+main                                              /tmp/cc0YwIId.ltrans0.ltrans.o
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
                                                   /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/crtatmega128a.o
-main.c.a8878780                                   /tmp/ccNyagwW.debug.temp.o
-                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
-motor_set_fan_request                             CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
-                                                  CMakeFiles/atmega128a.elf.dir/lcd.c.obj (symbol from plugin)
-motor_update                                      CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+main.c.fb7f8ef4                                   /tmp/ccZhMt7G.debug.temp.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
+motor_set_fan_request                             CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj (symbol from plugin)
+motor_update                                      CMakeFiles/atmega128a.elf.dir/fan_moter.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
-servo.c.27116693                                  /tmp/ccpzzUvJ.debug.temp.o
-                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+servo.c.2623a49a                                  /tmp/ccSnwLHD.debug.temp.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
 snprintf                                          /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(snprintf.o)
-                                                  /tmp/ccH0EkwS.ltrans0.ltrans.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
 strnlen                                           /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
                                                   /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
 strnlen_P                                         /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
                                                   /opt/microchip/avr-gcc/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+system_millis_elapsed                             CMakeFiles/atmega128a.elf.dir/system_timer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+system_millis_get                                 CMakeFiles/atmega128a.elf.dir/system_timer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+system_timer.c.6f22e685                           /tmp/ccmKeSxg.debug.temp.o
+                                                  /tmp/cc0YwIId.ltrans0.ltrans.o
+system_timer_init                                 CMakeFiles/atmega128a.elf.dir/system_timer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
+system_timer_tick                                 CMakeFiles/atmega128a.elf.dir/system_timer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
 timer_display_update                              CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
                                                   CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
 timer_parse_input                                 CMakeFiles/atmega128a.elf.dir/fndtimer.c.obj (symbol from plugin)
