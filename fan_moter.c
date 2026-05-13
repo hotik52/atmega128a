@@ -78,11 +78,23 @@ void motor_set_fan_request(uint8_t enabled)
     motor_fan_request = enabled ? 1 : 0; // 인자가 0이 아니면 팬 쪽 모터 요청을 켜고, 0이면 요청을 끕니다.
 }
 
-void motor_update(uint16_t timer_seconds)
+void motor_update(uint16_t timer_seconds, uint16_t current_fan_duty)
 {
-    if(timer_seconds > 0 || motor_fan_request) {
-        MOTOR_PORT |= (1 << MOTOR_PIN); // 타이머가 남아 있거나 팬 요청이 있으면 모터 제어 핀을 HIGH로 켭니다.
-    } else {
-        MOTOR_PORT &= ~(1 << MOTOR_PIN); // 두 조건이 모두 없으면 모터 제어 핀을 LOW로 내려 끕니다.
+    // 1. 우선순위: UART 타이머가 작동 중인가?
+    if (timer_seconds > 0)
+    {
+        // 타이머가 작동 중이면 무조건 최대 속도로 회전
+        OCR1A = FAN_PWM_TOP; 
+    }
+    // 2. 타이머는 없지만, 온습도 센서에 의한 팬 가동 요청이 있는가?
+    else if (motor_fan_request)
+    {
+        // 온습도 로직에서 계산된 듀티값(0~FAN_PWM_TOP)을 적용
+        OCR1A = current_fan_duty;
+    }
+    // 3. 둘 다 해당 없으면 정지
+    else
+    {
+        OCR1A = 0;
     }
 }

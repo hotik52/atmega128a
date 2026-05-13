@@ -12,5 +12,7 @@ void FAN_speed(uint16_t duty);
 uint8_t FAN_getDutyPercent(uint16_t duty_cycle);
 uint16_t FAN_GetTargetDuty(uint8_t temperature, uint8_t humidity);
 uint16_t FAN_RampDuty(uint16_t current_duty, uint16_t target_duty);
+void motor_update(uint16_t timer_seconds, uint16_t current_fan_duty);
+void motor_set_fan_request(uint8_t enabled);
 
 #endif

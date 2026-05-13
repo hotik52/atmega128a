@@ -21,8 +21,6 @@ void I2C_Write(unsigned char data);
 void LCD_Write_4bit(unsigned char data, unsigned char rs);
 void LCD_Init(void);
 void LCD_WriteString(const char *str);
-void FAN_init(void);
-void FAN_speed(uint16_t duty);
 uint8_t FAN_getDutyPercent(uint16_t duty_cycle);
 uint16_t FAN_GetTargetDuty(uint8_t temperature, uint8_t humidity);
 uint16_t FAN_RampDuty(uint16_t current_duty, uint16_t target_duty);

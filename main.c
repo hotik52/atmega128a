@@ -10,6 +10,7 @@
 #include "dht.h"
 #include "fan_led.h"
 #include "system_timer.h"
+#include "fan_moter.h"
 
 int main(void)
 {
@@ -34,7 +35,7 @@ int main(void)
 
     fnd_init(); // 4FND 세그먼트/자리 선택 핀과 Timer2 인터럽트를 초기화합니다.
     uart0_init(); // UART로 타이머 값을 입력받을 수 있도록 USART0를 초기화합니다.
-    motor_update(timer_seconds); // 초기 타이머 값이 0이므로 타이머 연동 모터 출력을 꺼진 상태로 맞춥니다.
+    motor_update(timer_seconds, fan_duty); // 초기 타이머 값이 0이므로 타이머 연동 모터 출력을 꺼진 상태로 맞춥니다.
     timer_display_update(timer_seconds); // 초기 0초 값을 4FND 표시 버퍼에 00:00 형태로 반영합니다.
     sei(); // Timer2 ISR이 4FND 동적 표시와 system_millis 증가를 시작할 수 있도록 전역 인터럽트를 켭니다.
 
@@ -56,7 +57,7 @@ int main(void)
         if(timer_uart_update(&timer_seconds)) // UART 입력으로 새 타이머 값이 들어왔는지 확인합니다.
         {
             second_last_ms = system_millis_get(); // 새 시간 입력 직후 바로 1초가 깎이지 않도록 기준 시각을 현재로 맞춥니다.
-            motor_update(timer_seconds); // 새 타이머 값이 0보다 크면 타이머 연동 모터 출력을 켭니다.
+            motor_update(timer_seconds, fan_duty); // 새 타이머 값이 0보다 크면 타이머 연동 모터 출력을 켭니다.
             timer_display_update(timer_seconds); // 새 타이머 값을 4FND 표시 버퍼에 즉시 반영합니다.
         }
 
@@ -74,13 +75,13 @@ int main(void)
         }
 
         if (system_millis_elapsed(&ramp_last_ms, FAN_RAMP_INTERVAL_MS)) // Timer2 기반 시간으로 팬 듀티 갱신 주기가 지났는지 확인합니다.
-        {
+        {            
             fan_duty = FAN_RampDuty(fan_duty, target_duty);
             FAN_speed(fan_duty);
-            motor_update(timer_seconds); // 팬 동작 요청과 타이머 상태를 합쳐 모터 출력 상태를 갱신합니다.
+            motor_update(timer_seconds, fan_duty); // 팬 동작 요청과 타이머 상태를 합쳐 모터 출력 상태를 갱신합니다.
             FanLed_DisplayDuty(FAN_getDutyPercent(fan_duty));
         }
-
+        
         if (ButtonGetState(&btnHorizontal) == ACT_PUSH)
         {
             horizontalAuto = !horizontalAuto;
@@ -106,7 +107,7 @@ int main(void)
         if(system_millis_elapsed(&second_last_ms, TIMER_COUNTDOWN_INTERVAL_MS)) // Timer2 기반 시간으로 1초가 지났는지 확인해 카운트다운을 진행합니다.
         {
             if(timer_seconds > 0) timer_seconds--; // 남은 시간이 있으면 1초를 감소시킵니다.
-            motor_update(timer_seconds); // 감소 후 남은 시간이 0이면 타이머 연동 모터 출력을 끕니다.
+            motor_update(timer_seconds, fan_duty); // 감소 후 남은 시간이 0이면 타이머 연동 모터 출력을 끕니다.
             timer_display_update(timer_seconds); // 감소한 값을 4FND 표시 버퍼에 반영합니다.
         }
     }
